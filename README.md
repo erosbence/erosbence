@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 My research focuses on abstract information visualization<br>🔭 I am currently learning Rust and network visualization using Gephi<br>🎲 Fun fact: I am a fan of The Simpsons and puzzle cubes</p>
+<p align="left">📚 My research focuses on abstract information visualization<br>🔭 I am currently learning Rust and computer art using Processing<br>🎲 Fun fact: I am a fan of The Simpsons and puzzle cubes</p>
 
 ###
 
